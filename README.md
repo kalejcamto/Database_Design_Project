@@ -82,7 +82,7 @@ one trainer
 EER DIAGRAM
 ![image](https://github.com/kalejcamto/Database_Design_Project/assets/101201140/792bc1a6-ccf5-4c4e-af8a-d51fe092aab3)
 
-## SECONG PHASE OF THE PROJECT
+## SECOND PHASE OF THE PROJECT
 
 -  Creating data for the tables in excel and save them as CSV file.
 -  ![image](https://github.com/kalejcamto/Database_Design_Project/assets/101201140/836be979-48c9-4153-bb5a-2ca973422653)
