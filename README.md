@@ -88,11 +88,11 @@ EER DIAGRAM
 -  ![image](https://github.com/kalejcamto/Database_Design_Project/assets/101201140/836be979-48c9-4153-bb5a-2ca973422653)
 
 -  Forward engineering the import of the EER Diagram into MySQL WORKBENCH TABLES
--  ![image](https://github.com/kalejcamto/Database_Design_Project/assets/101201140/c26f0f31-7b23-4d08-9017-a8bd489b6fd9
+-  https://github.com/kalejcamto/Database_Design_Project/assets/101201140/c26f0f31-7b23-4d08-9017-a8bd489b6fd9
 
 -  Importing my data sets into the tables using right clic on the table and then clic "Table Data Import Wizard".
 -  
 
 ## THIRD AND FINAL PHASE OF THE PROJECT
 -  Creating at least 8 SELECT queries on the tables.
--  
+-  /*TO BE CONTINUE, CURRENTLY WORKINGN ON THIS, AS OF 11/21/23*/
